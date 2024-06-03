@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Fitri Rasendriya and I'm a Information Technology enthusiast, from indonesia :indonesia: </h2>
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
