@@ -1,24 +1,43 @@
-<h2 align="left">Hi 👋! My name is Fitri Rasendriya and I'm a IT enthusiast, from 🇮🇩</h2>
-<br clear="both">
+<h2 align="left">Hi there 👋! I'm Fitri Rasendriya, an IT enthusiast from 🇮🇩 Indonesia!</h2>
+
+---
 
 ✨ **About Me:** ✨
 
-* 💻 I love exploring everything.
-* 💖 Passionate about creating user-friendly and innovative solutions.
-* ☕ Fueled by coffee and a good challenge.
+- 💻 I love exploring all things tech and beyond.
+- 💖 Passionate about creating user-friendly and innovative solutions.
+- ☕ Fueled by coffee and a good challenge.
+
+---
 
 **GitHub Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrsndrya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrsndrya)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftrsndrya&layout=compact" alt="Top Languages"></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ftrsndrya" alt="GitHub Streak"></a>
+</p>
+
+---
 
 **Let's Connect!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ftrsndrya) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/ftrsnx)
-
-💖💖💖
+<p align="center">
+  <a href="https://github.com/ftrsndrya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/ftrsnx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
 ---
-"The only way to do great work is to love what you do." – Steve Jobs
-<img src="https://raw.githubusercontent.com/ftrsndrya/ftrsndrya/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  💖💖💖
+</p>
+
+---
+
+<p align="center">
+  <em>"The only way to do great work is to love what you do." – Steve Jobs</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ftrsndrya/ftrsndrya/output/snake.svg" alt="Snake animation" />
+</p>
