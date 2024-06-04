@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fitri Rasendriya and I'm a Information Technology enthusiast, from indonesia :indonesia: </h2>
-
+<h2 align="left">Hi 👋! My name is Fitri Rasendriya and I'm a IT enthusiast, from indonesia:indonesia: </h2>
 ###
 <br clear="both">
 
